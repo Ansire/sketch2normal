@@ -2,7 +2,7 @@
 
 This is the implementation of the paper [Interactive Sketch-Based Normal Map Generation with Deep Neural Networks](http://sweb.cityu.edu.hk/hongbofu/doc/sketch2normal_i3D2018.pdf)
 
-<img src="./teaser.png" width="600px"/>
+<img src="./teaser.PNG" width="600px"/>
 
 ## Setup
 
