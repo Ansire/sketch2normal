@@ -11,20 +11,20 @@ We run the program on a Linux desktop using python.
 ## Usage
 
 - Train the model:
-'''bash
+```bash
 pyhton main.py --phase train --dataset_name <dataset>
-'''
+```
 
 - Test:
-'''bash
+```bash
 python main.py --phase test --dataset_name <dataset>
-'''
+```
 
 - Visulize the training process:
-'''bash
+```bash
 cd logs
 tensorboard --logdir=./
-'''
+```
 
 - Data: TBA
 
