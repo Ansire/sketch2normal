@@ -20,7 +20,7 @@ pyhton main.py --phase train --dataset_name <dataset>
 python main.py --phase test --dataset_name <dataset>
 ```
 
-- Visulize the training process:
+- Visualize the training process:
 ```bash
 cd logs
 tensorboard --logdir=./
