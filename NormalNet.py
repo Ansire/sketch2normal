@@ -19,7 +19,6 @@ class normalnet(object):
                  input_c_dim=3, output_c_dim=3, dataset_name='primitive', coefficient=100):
 
         self.sess = sess
-        self.is_grayscale = (input_c_dim == 1)
         self.clamp = clamp
         self.batch_size = batch_size
         self.image_size = image_size
