@@ -26,7 +26,7 @@ cd logs
 tensorboard --logdir=./
 ```
 
-- Data: Traing and testing data can be downloaded [here](http://sweb.cityu.edu.hk/hongbofu/data/datasets.tar.gz). After extracting the compressed file, put the folder (datasets) in the project directory (the same directory where the main file locates in).
+- Data: Training and testing data can be downloaded [here](http://sweb.cityu.edu.hk/hongbofu/data/datasets.tar.gz). After extracting the compressed file, put the folder (datasets) in the project directory (the same directory where the main file locates in).
 
 ## Acknowledgement
 This code is based on the implementation of pix2pix from [pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow). Thanks for the great work!
